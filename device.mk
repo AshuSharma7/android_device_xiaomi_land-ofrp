@@ -1,6 +1,6 @@
 # Recovery TimeZone Data
-PRODUCT_COPY_FILES += \
-	bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
+#PRODUCT_COPY_FILES += \
+#	bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 # Screen Resolution
 TARGET_SCREEN_HEIGHT := 1280
